@@ -5,7 +5,7 @@
 #include <sstream>
 #include <vector>
 //include new files
-#include "Day8.h"
+#include "Days/Day8.h"
 
 std::ifstream parseInput(std::string &filename) {
     std::ifstream file(filename);

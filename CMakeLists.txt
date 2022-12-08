@@ -3,4 +3,4 @@ project(AdventOfCode2022)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(AdventOfCode2022 main.cpp Day1.cpp Day1.h Day2.cpp Day2.h Day3.cpp Day3.h Day4.cpp Day4.h Day5.cpp Day5.h Day6.cpp Day6.h Day7.cpp Day7.h Day8.cpp Day8.h)
+add_executable(AdventOfCode2022 main.cpp Days/Day1.cpp Days/Day1.h Days/Day2.cpp Days/Day2.h Days/Day3.cpp Days/Day3.h Days/Day4.cpp Days/Day4.h Days/Day5.cpp Days/Day5.h Days/Day6.cpp Days/Day6.h Days/Day7.cpp Days/Day7.h Days/Day8.cpp Days/Day8.h)
